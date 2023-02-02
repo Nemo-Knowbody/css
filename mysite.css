@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif; 
+}
+
+h1{
+    margin: 0 auto;
+    font-family: 'Pacifico',cursive;
+    color: #ffffff;
+    font-size: 4em;
+    line-height: 1;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+.h2{
+    color: #ffffff;
+    line-height: 2;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    border: dotted;
+    color: #c4feff;
+    width: 50%;
+    border-bottom: none;
+}
+
+.top-container{
+    background-color: #00337C; 
+    height: auto;
+    width: auto;
+    position: relative;
+    padding-top: 100px;
+}    
+
+.middle-container{
+    background-color: #00FFF6;
+    padding: 50px 0 40px;
+}    
+
+.bottom-container{
+   background-color: #03C988;
+   padding: 50px 0 40px;
+} 
+
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto; 
+   text-align: left;
+   line-height: 2;
+}
+
+.stars{
+    position: absolute;
+    right: 30%;
+    top: 10%;
+}
+
+.a{
+    position: absolute;
+    left: 30%;
+    top: 18%;
+}
+
+.b{
+    position: absolute;
+    right: 35%;
+    top: 25%;
+}
+
+.c{
+    position: absolute;
+    left: 30%;
+    bottom: 10%;
+}
+
+.con{
+    position: absolute;
+    left: 30%;
+    bottom: 40%;
+}
+
+.big{
+    position: absolute;
+    right: 30%;
+    top: 40%;
+}
+
+.web{
+    float: left;
+    display: inline-block;
+    margin: 25px 10px;
+}
+
+.gra{
+    float: right;
+    display: inline-block;
+    margin: 25px 10px;
+}
+
+.para{
+    clear: left;
+}
+.graph{
+    clear: right;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #f00e0e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #fc3c3c;
+    text-decoration: none;
+  }
+
+.footer-link{
+    color: #B3FFAE;
+    font-family: 'Merriweather';
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+.footer-link:hover{
+    color: #97DECE;
+}  
+
+.cr{
+    color: #ffffff;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
